@@ -158,7 +158,7 @@ If you use this code or dataset, please cite:
 
 ## 🔗 References
 
-- NetSecGame: [GitHub Repository](https://github.com/stratosphere-lab/netsecgame)  
+- NetSecGame: [GitHub Repository](https://github.com/stratosphereips/NetSecGame/)
 - MAML: Finn et al., *ICML 2017*  
 - Related cyber-RL works: Collyer (2022), Applebaum (2022), Janisch (2023), Wolk (2022)
 
